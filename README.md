@@ -20,3 +20,6 @@ This project is created by **Shubham Patidar** as a part of a contest. The origi
 
 ## Preview
 
+![screenshot (1)](https://user-images.githubusercontent.com/117558233/230606850-eb63bff1-5cdc-44ea-b79f-d20376eeb5b1.png)
+
+
